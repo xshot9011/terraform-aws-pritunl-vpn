@@ -1,5 +1,7 @@
 # terraform-aws-pritunl-vpn
 
+![overall](images/overall.png)
+
 ## Setting up
 
 0) use example/complete
